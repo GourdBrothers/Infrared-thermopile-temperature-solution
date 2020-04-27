@@ -397,6 +397,11 @@
               <FileType>1</FileType>
               <FilePath>..\User\Led\led.c</FilePath>
             </File>
+            <File>
+              <FileName>SD_ADC_Driver.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\User\SD_ADC\SD_ADC_Driver.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
