@@ -397,6 +397,11 @@
               <FileType>1</FileType>
               <FilePath>..\User\Led\led.c</FilePath>
             </File>
+            <File>
+              <FileName>USART1.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\User\Uart\USART1.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

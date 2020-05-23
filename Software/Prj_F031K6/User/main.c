@@ -11,6 +11,8 @@
 */
 int main(void)
 {
+	RCC_DeInit();
+	//RCC_PLLConfig(RCC_PLLSource_HSI_Div2,2);
 	delay_init();
 	LED_Init();
 	//USART1_Init(115200);
@@ -20,6 +22,7 @@ int main(void)
 	{		
 		delay_ms(200);
 		LED_TURN;
+		LED2_TURN;
 	}
 }
 
